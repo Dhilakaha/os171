@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 fadhilah.khairatun StafCS 4096 Feb 17 12:58 .
+drwx--x--x  4 fadhilah.khairatun StafCS 4096 Feb 17 12:56 ..
+drwxr-xr-x  8 fadhilah.khairatun StafCS 4096 Feb 17 06:11 .git
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:35 key
+-rw-r--r--  1 fadhilah.khairatun StafCS    0 Feb 17 12:58 lab01.txt
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:35 log
+-rw-r--r--  1 fadhilah.khairatun StafCS    7 Feb 14 15:32 README.md
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 17 06:09 sandbox
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 17 12:56 week00
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:26 week01
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:27 week02
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:27 week03
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:28 week04
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:29 week05
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:32 week06
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:32 week07
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:34 week08
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:34 week09
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:35 week10
+drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:36 xtra
+/home/fasilkom/mahasiswa/f/fadhilah.khairatun/os171/week01
