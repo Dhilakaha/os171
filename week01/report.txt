@@ -1,0 +1,1 @@
+pada sesi lab week01, yaitu sebagai latihan awal atau intro dalam penggunaan Git dan Badak. Langkah demi langkah ditampilkan didalam slide tutorial.
