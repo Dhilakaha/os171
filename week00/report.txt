@@ -1,0 +1,1 @@
+pada sesi lab week00, diajarkan bagaimana cara login ke badak server. Bisa dilakukan melalui pc fakultas maupun dengan pc luar fakultas. untuk masuk melalui pc luar fakultas maka harus masuk melalui server kawung.
