@@ -20,3 +20,4 @@ drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:34 week09
 drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:35 week10
 drwxr-xr-x  2 fadhilah.khairatun StafCS 4096 Feb 16 07:36 xtra
 /home/fasilkom/mahasiswa/f/fadhilah.khairatun/os171/week01
+Today is 18 Feb 2017 at 08:05:36
