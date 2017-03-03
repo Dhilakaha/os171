@@ -21,3 +21,15 @@ w02-170223-10-LR-About:Security & Protection, From: Lecture
 w02-170224-11-PS-Doing Lab Session
 w02-170224-23-PS-Doing Lab Session
 w02-170225-11-PS-Doing Lab Session
+
+w03-170228-10-LR-About:Bios, Boot and UpStart From: Lecture
+w03-170228-10-LR-About:Bios, Boot and UpStart From: Lecture
+w03-170228-11-LR-About:Bios, Boot and UpStart From: Lecture
+w03-170302-13-LR-About:Bios, Boot and UpStart From: Lecture
+w03-170302-13-LR-About:Bios, Boot and UpStart From: Lecture
+w03-170302-14-LR-About:Bios, Boot and UpStart From: Lecture
+w03-170302-10-PS-Doing Lab Session
+w03-170302-11-LR-About:Perintah dasar linux From: Book,Perintah dasar linux
+w03-170303-23-PS-Doing Lab Session
+
+
