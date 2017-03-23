@@ -32,4 +32,19 @@ w03-170302-10-PS-Doing Lab Session
 w03-170302-11-LR-About:Perintah dasar linux From: Book,Perintah dasar linux
 w03-170303-23-PS-Doing Lab Session
 
+w05-170314-10-LR-About:Memory From: Lecture
+w05-170314-10-LR-About:Memory From: Lecture
+w05-170314-11-LR-About:Memory From: Lecture
+w05-170316-10-LR-About:Memory From: Lecture
+w05-170316-10-LR-About:Memory From: Lecture
+w05-170316-11-LR-About:Memory From: Lecture
+w05-170317-22-PS-Doing Lab Session
+w05-170317-22-PS-Doing Lab Session
+w05-170317-08-PS-Doing Lab Session
+w05-170318-09-PS-Doing Lab Session
+w05-170318-09-PS-Doing Lab Session
+w05-170318-12-LR-About:Memori, Segmentasi,Memori Virtual From: Book, Pengantar Sistem Operasi Komputer (MDGR)
+
+
+
 
