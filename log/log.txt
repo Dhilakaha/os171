@@ -45,6 +45,15 @@ w05-170318-09-PS-Doing Lab Session
 w05-170318-09-PS-Doing Lab Session
 w05-170318-12-LR-About:Memori, Segmentasi,Memori Virtual From: Book, Pengantar Sistem Operasi Komputer (MDGR)
 
-
+w07-170418-10-LR-About: Process Synchronization, From: Lecturer
+w07-170418-10-LR-About: Process Synchronization, From: Lecturer
+w07-170418-11-LR-About: Process Synchronization, From: Lecturer
+w07-170420-10-LR-About: CPU Utilization, From: Lecturer
+w07-170420-10-LR-About: CPU Utilization, From: Lecturer
+w07-170420-11-LR-About: CPU Utilization, From: Lecturer
+w07-170421-16-PS- Doing Lab Session Week07
+w07-170421-16-PS- Doing Lab Session Week07
+w07-170421-11-PS- Doing Lab Session Week07
+w07-170421-14-PS- Doing Lab Session Week07
 
 
